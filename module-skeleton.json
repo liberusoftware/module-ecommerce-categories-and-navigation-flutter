@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-categories-and-navigation-flutter",
+  "capabilityKey": "planned:ecommerce:categories-and-navigation",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_categories_and_navigation_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/categories-and-navigation.md",
+  "presentationPlan": "projects/ecommerce/flutter/categories-and-navigation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
